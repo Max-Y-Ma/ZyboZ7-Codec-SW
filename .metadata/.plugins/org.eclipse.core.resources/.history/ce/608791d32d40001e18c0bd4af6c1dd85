@@ -1,0 +1,9 @@
+#include <xil_printf>
+
+int main() {
+	while(1) {
+		xil_printf("Hello World!");
+	}
+
+	return 0;
+}
